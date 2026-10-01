@@ -1,0 +1,23 @@
+[
+    {
+        "id": "20261001135704218213",
+        "date": "2026-10-01 13:57:04",
+        "length": "Short",
+        "original_text": "ypes of Data\n• Quantitative: Numerical values that can be measured or counted, such as height, weight, or temperature.\n• Qualitative: Descriptive information covering categories, colors, or text that cannot be measured with numbers.\n• Structured: Highly organized data fitting neatly into rows and columns, like a spreadsheet or SQL database.\n• Unstructured: Scattered files without a predefined model, such as photos, videos, or audio recordings.\n• Semi-Structured: Files containing organizational markers like tags or metadata, such as JSON or XML files.\nImportance and Uses\n• Drives decision-making and business intelligence.\n• Powers modern computing, algorithms, and artificial intelligence mod",
+        "summary": "Data types: quantitative, qualitative, structured, unstructured, semi‑structured. Data drives decisions, business intelligence, computing, and AI."
+    },
+    {
+        "id": "20261001135648425401",
+        "date": "2026-10-01 13:56:48",
+        "length": "Medium",
+        "original_text": "ypes of Data\n• Quantitative: Numerical values that can be measured or counted, such as height, weight, or temperature.\n• Qualitative: Descriptive information covering categories, colors, or text that cannot be measured with numbers.\n• Structured: Highly organized data fitting neatly into rows and columns, like a spreadsheet or SQL database.\n• Unstructured: Scattered files without a predefined model, such as photos, videos, or audio recordings.\n• Semi-Structured: Files containing organizational markers like tags or metadata, such as JSON or XML files.\nImportance and Uses\n• Drives decision-making and business intelligence.\n• Powers modern computing, algorithms, and artificial intelligence mod",
+        "summary": "Data can be classified in several ways.  \n- **Quantitative** data are numeric values that can be measured or counted (e.g., height, weight, temperature).  \n- **Qualitative** data are descriptive and cannot be expressed as numbers (e.g., categories, colors, text).  \n- **Structured** data fit neatly into rows and columns, such as spreadsheets or SQL databases.  \n- **Unstructured** data lack a predefined format, including photos, videos, and audio files.  \n- **Semi‑structured** data contain organizational markers like tags or metadata, for example JSON or XML files.  \n\nThese data types are crucial for decision‑making, business intelligence, and for powering modern computing, algorithms, and artificial intelligence models."
+    },
+    {
+        "id": 1,
+        "date": "2026-10-01 13:44:55",
+        "length": "Short",
+        "original_text": "Types of Data\n• Quantitative: Numerical values that can be measured or counted, such as height, weight, or temperature.\n• Qualitative: Descriptive information covering categories, colors, or text that cannot be measured with numbers.\n• Structured: Highly organized data fitting neatly into rows and columns, like a spreadsheet or SQL database.\n• Unstructured: Scattered files without a predefined model, such as photos, videos, or audio recordings.\n• Semi-Structured: Files containing organizational markers like tags or metadata, such as JSON or XML files.",
+        "summary": "- **Quantitative**: Numerical values that can be measured or counted (e.g., height, weight, temperature).  \n- **Qualitative**: Descriptive information that cannot be expressed as numbers (e.g., categories, colors, text).  \n- **Structured**: Data organized in rows and columns, such as spreadsheets or SQL tables.  \n- **Unstructured**: Files without a predefined format, like photos, videos, or audio.  \n- **Semi‑structured**: Files with organizational markers (tags or metadata), such as JSON or XML."
+    }
+]
